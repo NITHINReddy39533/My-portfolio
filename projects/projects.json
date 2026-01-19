@@ -1,0 +1,12 @@
+[
+    {
+        "name": "OpenCV Face Recognition",
+        "desc": "Real-time face recognition system developed using OpenCV and Python. customized for security applications.",
+        "image": "face-recognition",
+        "category": "python",
+        "links": {
+            "view": "face-recognition.html",
+            "code": "#"
+        }
+    }
+]
