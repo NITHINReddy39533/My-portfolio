@@ -1,0 +1,34 @@
+[
+    {
+        "name": "C",
+        "icon": "./assets/images/skills/C.png"
+    },
+    {
+        "name": "Java",
+        "icon": "./assets/images/skills/java.png"
+    },
+    {
+        "name": "Python",
+        "icon": "./assets/images/skills/python.png"
+    },
+    {
+        "name": "C++",
+        "icon": "./assets/images/skills/C++.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "./assets/images/skills/sql.png"
+    },
+    {
+        "name": "NoSQL",
+        "icon": "./assets/images/skills/mongodb.png"
+    },
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "./assets/images/skills/css.png"
+    }
+]
